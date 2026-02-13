@@ -1,4 +1,5 @@
-## Hi there 👋
+## Seja bem-vindo ao meu GitHub!
+![gif do gatinho](https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif)
 
 <!--
 **Saulo-npereira/Saulo-npereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
