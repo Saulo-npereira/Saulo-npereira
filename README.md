@@ -1,12 +1,20 @@
-## Seja bem-vindo ao meu GitHub!💻👋
+<center><h1>Seja bem-vindo ao meu GitHub!💻👋</h1>
+
+
+
+
 ![gif do gatinho](https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif)
 
+
+
 ---
+
 #### Olá me chamo Saulo
 
 #### 💬 Sou estudante de Desenvolvimento de Sistemas, focado em Backend
 
 [🔗Acesse meu linkedIn](https://www.linkedin.com/in/saulo-pereira-bb10b23a8/)
+
 
 ---
 
@@ -22,6 +30,7 @@
 </p>
 
 ---
+<p align="center">
 
 | cursos | certificados |
 | ------ | ------------ |
@@ -29,6 +38,9 @@
 | 📂Principios Git e GitHub | [certificado](https://hermes.dio.me/certificates/SQP68I73.pdf) |
 | 🗃Introdução a Banco de Dados Relacionais(mySQL) | [certificado](https://hermes.dio.me/certificates/J3GPFSMF.pdf) |
 | 🌍Desenvolvimento Web | [certificado](https://hermes.dio.me/certificates/BGXQKFB8.pdf)
+
+</p>
+</center>
 
 ---
 
