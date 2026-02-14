@@ -32,7 +32,7 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Saulo-npereira&show_icons=true&theme=radical&rank_icon=github)
+![Saulo's GitHub stats](https://stats.vercel.app/api?username=Saulo-npereira)
 
 
 
