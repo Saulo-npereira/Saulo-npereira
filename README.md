@@ -1,16 +1,16 @@
-## Seja bem-vindo ao meu GitHub!
+## Seja bem-vindo ao meu GitHub!💻👋
 ![gif do gatinho](https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif)
 
 ---
 #### Olá me chamo Saulo
 
-#### 💬 Sou estudante de Desenvolvimento de Sistemas
+#### 💬 Sou estudante de Desenvolvimento de Sistemas, focado em Backend
 
-[Acesse meu linkedIn](https://www.linkedin.com/in/saulo-pereira-bb10b23a8/)
+[🔗Acesse meu linkedIn](https://www.linkedin.com/in/saulo-pereira-bb10b23a8/)
 
 ---
 
-## Minhas Tecnologias
+## 🛠Minhas Tecnologias
 <p align='center'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="100px"/>
@@ -25,14 +25,14 @@
 
 | cursos | certificados |
 | ------ | ------------ |
-| Fundamentos Python | [certificado](https://hermes.dio.me/certificates/VCXBPCU5.pdf) |
-| Principios Git e GitHub | [certificado](https://hermes.dio.me/certificates/SQP68I73.pdf) |
-| Introdução a Banco de Dados Relacionais(mySQL) | [certificado](https://hermes.dio.me/certificates/J3GPFSMF.pdf) |
-| Desenvolvimento Web | [certificado](https://hermes.dio.me/certificates/BGXQKFB8.pdf)
+| 🐍Fundamentos Python | [certificado](https://hermes.dio.me/certificates/VCXBPCU5.pdf) |
+| 📂Principios Git e GitHub | [certificado](https://hermes.dio.me/certificates/SQP68I73.pdf) |
+| 🗃Introdução a Banco de Dados Relacionais(mySQL) | [certificado](https://hermes.dio.me/certificates/J3GPFSMF.pdf) |
+| 🌍Desenvolvimento Web | [certificado](https://hermes.dio.me/certificates/BGXQKFB8.pdf)
 
 ---
 
-![Saulo's GitHub stats](https://stats.vercel.app/api?username=Saulo-npereira)
+
 
 
 
