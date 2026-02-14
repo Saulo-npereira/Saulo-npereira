@@ -48,7 +48,7 @@
 | cursos | certificados |
 | ------ | ------------ |
 | 🐍Fundamentos Python | [certificado](https://hermes.dio.me/certificates/VCXBPCU5.pdf) |
-| 📂Principios Git e GitHub | [certificado](https://hermes.dio.me/certificates/SQP68I73.pdf) |
+| 📂Conceitos Git e GitHub | [certificado](https://hermes.dio.me/certificates/I1BQPN2C.pdf) |
 | 🗃Introdução a Banco de Dados Relacionais(mySQL) | [certificado](https://hermes.dio.me/certificates/J3GPFSMF.pdf) |
 | 🌍Desenvolvimento Web | [certificado](https://hermes.dio.me/certificates/BGXQKFB8.pdf)
 
