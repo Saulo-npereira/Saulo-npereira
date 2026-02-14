@@ -31,9 +31,8 @@
 | Desenvolvimento Web | [certificado](https://hermes.dio.me/certificates/BGXQKFB8.pdf)
 
 ---
-<p align='center'>
+
 ![Saulo Pereira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saulo-npereira&show_icons=true&theme=radical)
-<p>
 
 
 
