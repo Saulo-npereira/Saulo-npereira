@@ -27,12 +27,12 @@
 | ------ | ------------ |
 | Fundamentos Python | [certificado](https://hermes.dio.me/certificates/VCXBPCU5.pdf) |
 | Principios Git e GitHub | [certificado](https://hermes.dio.me/certificates/SQP68I73.pdf) |
-| Introdução a Banco de Dados Relacionais(mySQL) | [certificado](https://hermes.dio.me/certificates/SQP68I73.pdf) |
+| Introdução a Banco de Dados Relacionais(mySQL) | [certificado](https://hermes.dio.me/certificates/J3GPFSMF.pdf) |
 | Desenvolvimento Web | [certificado](https://hermes.dio.me/certificates/BGXQKFB8.pdf)
 
 ---
 
-![Saulo Pereira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saulo-npereira&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Saulo-npereira&show_icons=true&theme=radical&rank_icon=github)
 
 
 
