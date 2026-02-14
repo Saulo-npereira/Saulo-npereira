@@ -11,7 +11,7 @@ Olá me chamo Saulo
 ---
 
 ## Minhas Tecnologias
-
+<p align='center'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="100px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="100px"/>
@@ -19,6 +19,7 @@ Olá me chamo Saulo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width='100px'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width='100px'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width='100px'/>
+</p>
 
 <!--
 **Saulo-npereira/Saulo-npereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
