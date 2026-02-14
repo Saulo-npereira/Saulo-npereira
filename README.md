@@ -2,11 +2,11 @@
 ![gif do gatinho](https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif)
 
 ---
-Olá me chamo Saulo
+#### Olá me chamo Saulo
 
-💬 Sou estudante de Desenvolvimento de Sistemas
+#### 💬 Sou estudante de Desenvolvimento de Sistemas
 
-![Acesse meu linkedIn](https://www.linkedin.com/in/saulo-pereira-bb10b23a8/)
+[Acesse meu linkedIn](https://www.linkedin.com/in/saulo-pereira-bb10b23a8/)
 
 ---
 
@@ -20,6 +20,22 @@ Olá me chamo Saulo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width='100px'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width='100px'/>
 </p>
+
+---
+
+| cursos | certificados |
+| ------ | ------------ |
+| Fundamentos Python | [certificado](https://hermes.dio.me/certificates/VCXBPCU5.pdf) |
+| Principios Git e GitHub | [certificado](https://hermes.dio.me/certificates/SQP68I73.pdf) |
+| Introdução a Banco de Dados Relacionais(mySQL) | [certificado](https://hermes.dio.me/certificates/SQP68I73.pdf) |
+| Desenvolvimento Web | [certificado](https://hermes.dio.me/certificates/BGXQKFB8.pdf)
+
+---
+<p align='center'>
+![Saulo Pereira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saulo-npereira&show_icons=true&theme=radical)
+<p>
+
+
 
 <!--
 **Saulo-npereira/Saulo-npereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
