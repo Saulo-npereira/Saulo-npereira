@@ -45,7 +45,7 @@
 ---
 <p align="center">
 
-| cursos | certificados |
+| Cursos | Certificados |
 | ------ | ------------ |
 | 🐍Fundamentos Python | [Certificado](https://hermes.dio.me/certificates/VCXBPCU5.pdf) |
 | 📂Conceitos Git e GitHub | [Certificado](https://hermes.dio.me/certificates/CJBKF2RT.pdf) |
@@ -53,6 +53,11 @@
 | 🌍Desenvolvimento Web | [Certificado](https://hermes.dio.me/certificates/BGXQKFB8.pdf)
 
 </p>
+
+| Linguagem | Projetos |
+| --------- | ------- |
+| 🐍Python | [python](https://github.com/Saulo-npereira?tab=repositories&q=Python&type=&language=&sort=) |
+| 🌐HTML | [HTML](https://github.com/Saulo-npereira?tab=repositories&q=HTML&type=&language=&sort=) |
 
 
 ---
